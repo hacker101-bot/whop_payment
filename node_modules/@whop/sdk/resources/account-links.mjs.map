@@ -1,0 +1,1 @@
+{"version":3,"file":"account-links.mjs","sourceRoot":"","sources":["../src/resources/account-links.ts"],"names":[],"mappings":"AAAA,sFAAsF;OAE/E,EAAE,WAAW,EAAE;AAItB,MAAM,OAAO,YAAa,SAAQ,WAAW;IAC3C;;;;;;;;;;;;;;OAcG;IACH,MAAM,CAAC,IAA6B,EAAE,OAAwB;QAC5D,OAAO,IAAI,CAAC,OAAO,CAAC,IAAI,CAAC,gBAAgB,EAAE,EAAE,IAAI,EAAE,GAAG,OAAO,EAAE,CAAC,CAAC;IACnE,CAAC;CACF"}

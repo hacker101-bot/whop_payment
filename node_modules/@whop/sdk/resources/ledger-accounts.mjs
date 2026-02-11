@@ -1,0 +1,17 @@
+// File generated from our OpenAPI spec by Stainless. See CONTRIBUTING.md for details.
+import { APIResource } from "../core/resource.mjs";
+import { path } from "../internal/utils/path.mjs";
+export class LedgerAccounts extends APIResource {
+    /**
+     * Retrieves a ledger account by its ID, company ID or user ID
+     *
+     * Required permissions:
+     *
+     * - `company:balance:read`
+     * - `payout:account:read`
+     */
+    retrieve(id, options) {
+        return this._client.get(path `/ledger_accounts/${id}`, options);
+    }
+}
+//# sourceMappingURL=ledger-accounts.mjs.map

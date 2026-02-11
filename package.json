@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "dependencies": {
+    "@whop/sdk": "^0.0.27",
+    "dotenv": "^16.6.1",
+    "express": "^4.22.1"
+  }
+}
